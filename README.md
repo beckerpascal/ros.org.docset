@@ -37,5 +37,3 @@ Add the Feed URL and you are ready to go.
 Credits go to
 - all contributors of ROS and its documentations
 - Ved Vyas for doxytag2zealdb
-
--
