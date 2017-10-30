@@ -31,3 +31,11 @@ Add the Feed URL and you are ready to go.
 - image_transport
 - cv_bridge
 - hardware_interface
+
+# Credits
+
+Credits go to
+- all contributors of ROS and its documentations
+- Ved Vyas for doxytag2zealdb
+
+-
