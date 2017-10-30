@@ -3,6 +3,8 @@ This repository contains a docset for the Robot Operating System (ROS). It can b
 
 # Usage
 
+Here is explained how you can add the ROS docset to your docsets
+
 ## Feed URL
 
 [https://raw.githubusercontent.com/famalgosner/ros.org.docset/master/ros.org.docset.xml](https://raw.githubusercontent.com/famalgosner/ros.org.docset/master/ros.org.docset.xml)
@@ -15,7 +17,9 @@ Add this Feed URL and the docset will be downloaded. Future updates will be inst
 
 ## Dash
 
-TODO
+Start Dash and open the preferences.  
+Navigate to  *Downloads* and click on the Plus-Symbol on the bottom.  
+Add the Feed URL and you are ready to go.
 
 # Included documentations
 
