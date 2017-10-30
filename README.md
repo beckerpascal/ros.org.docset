@@ -3,6 +3,10 @@ This repository contains a docset for the Robot Operating System (ROS). It can b
 
 # Usage
 
+## Feed URL
+
+[https://raw.githubusercontent.com/famalgosner/ros.org.docset/master/ros.org.docset.xml](https://raw.githubusercontent.com/famalgosner/ros.org.docset/master/ros.org.docset.xml)
+
 ## Zeal
 
 Start Zeal and open the Docsets setting (Tools --> Docsets...).  
