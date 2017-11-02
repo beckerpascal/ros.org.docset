@@ -23,14 +23,15 @@ Add the Feed URL and you are ready to go.
 
 # Included documentations
 
+- actionlib  
+- geometry
+- geometry2
+- image_common
 - ros
-- ros_comm
-- ros_control
-- actionlib
-- tf2
-- image_transport
-- cv_bridge
-- hardware_interface
+- ros_comm  
+- ros_control  
+- roscpp_core  
+- vision_opencv
 
 # Credits
 
