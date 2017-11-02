@@ -7,7 +7,7 @@ Here is explained how you can add the ROS docset to your docsets
 
 ## Feed URL
 
-[https://raw.githubusercontent.com/famalgosner/ros.org.docset/master/ros.org.docset.xml](https://raw.githubusercontent.com/famalgosner/ros.org.docset/master/ros.org.docset.xml)
+[https://raw.githubusercontent.com/famalgosner/ros.org.docset/master/ROS.xml](https://raw.githubusercontent.com/famalgosner/ros.org.docset/master/ROS.xml)
 
 ## Zeal
 
